@@ -1,5 +1,7 @@
 Automação de Cadastro de Produtos com Python
+
 Descrição
+
 Este projeto tem como objetivo automatizar o processo de cadastro de produtos em um sistema online. Utilizando Python, o script acessa uma plataforma específica, faz o login, importa uma base de dados e cadastra os produtos de forma automática até que todos os produtos sejam inseridos.
 
 Passos da Automação
